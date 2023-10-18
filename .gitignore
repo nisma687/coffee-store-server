@@ -1,0 +1,5 @@
+node_modules
+.env
+
+
+# the files that are ignored in git push
